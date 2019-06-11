@@ -19,5 +19,5 @@ Ou Seja no .Net Core eu posso ter um aplicação totalmente independete da maqui
 
 
 **ONLINE LABS:**
-https://aka.ms/premiereducation
-
+LINK: https://aka.ms/premiereducation
+CHAVE: 1AC8C4FC
