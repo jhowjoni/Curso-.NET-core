@@ -2,8 +2,15 @@
 
 .Net Core, ASP.NET Core, .NET Standard
 
-*Roda windows, OSX, Linux
+*Roda em Windows, OSX, Linux
 *Open Source 
 Posso publicar a aplicação .NET core e carregar junto com ela pacotes que são necessários do próprio framework para carregar a aplicação.
 *Laboratórios serão feitos com a versão ASP.NET Core 2.0
 .NET core—compila “my.cs” para linguagem intermediaria “IL” e depois é compilado em tempo de execução para linguagem de máquina “my.dll”.
+
+***É possivel criar aplicação .NET via linha de comandos***
+
+Diferença de .Net framework(full) do .Net Core é que o framework usa referencias que vem do global assemble cash, diferente do .Net Core que tem todos os pacotes imbutidos na propria aplicação atraves de pacotes.
+Ou Seja no .Net Core eu posso ter um aplicação totalmente independete da maquina que eu vá instalar e ele vai ter todos os pacotes necessarios para download.
+
+
