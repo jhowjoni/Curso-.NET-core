@@ -13,4 +13,11 @@ Posso publicar a aplicação .NET core e carregar junto com ela pacotes que são
 Diferença de .Net framework(full) do .Net Core é que o framework usa referencias que vem do global assemble cash, diferente do .Net Core que tem todos os pacotes imbutidos na propria aplicação atraves de pacotes.
 Ou Seja no .Net Core eu posso ter um aplicação totalmente independete da maquina que eu vá instalar e ele vai ter todos os pacotes necessarios para download.
 
+É recomendado usar o servidor kestrel para ambiente de desenvolvimento. para ambiente produtivo é aconselhaveu usar o kestrel com proxy reverso com "iis, apache, nginx...", pois o kestrel é bem simples.
+
+*Usa variavel de ambiente para configuração de ambientes (DEV, HOM, PROD), configuraveis na classe CONFIGURE.
+
+
+**ONLINE LABS:**
+https://aka.ms/premiereducation
 
