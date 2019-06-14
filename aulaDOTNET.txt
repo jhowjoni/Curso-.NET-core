@@ -24,3 +24,4 @@ CHAVE: 1AC8C4FC
 
 **BLAZOR**
 Esta mais proximo do angular, ele cria codigo mais parecido com razor, entretanto ele roda web assemble direto no browser.
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDdjN2FjZTgtZDA4ZS00Mjg0LWFmYTgtMDc1NGI0OTJlZDhj%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%229c328d45-749e-49bd-8e20-a0a1b19aa735%22%7d
